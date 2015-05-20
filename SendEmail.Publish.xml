@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\PublishWeb\2015上半年\MailTest" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="lib/jmail.dll" publishTime="05/20/2015 11:05:42" />
+    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="bin/SendEmail.pdb" publishTime="05/20/2015 14:10:24" />
+    <file relUrl="Web.config" publishTime="05/20/2015 14:10:30" />
+    <file relUrl="Views/Web.config" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="Views/Shared/Error.cshtml" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="Views/_ViewStart.cshtml" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="Files/EmailTemplate.html" publishTime="05/20/2015 14:00:57" />
+    <file relUrl="Global.asax" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="Scripts/jquery-1.4.4.min.js" publishTime="05/20/2015 10:51:48" />
+    <file relUrl="Views/Email/Send.cshtml" publishTime="05/20/2015 12:43:44" />
+    <file relUrl="Files/Receiver.txt" publishTime="05/20/2015 14:08:37" />
+    <file relUrl="bin/SendEmail.dll" publishTime="05/20/2015 14:10:24" />
+  </publishProfile>
+</publishData>
