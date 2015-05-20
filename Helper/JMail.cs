@@ -20,7 +20,7 @@ namespace SendEmail.Helper
             jmail.Message jmail = new jmail.Message();
 
             string fromEmail = mailServerFromEmail;
-            string fromName = "天戏网络";
+            string fromName = "零下-1°";
             //jmail.Silent = true;
             //jmail.Logging = true;
             jmail.Charset = "GB2312";
